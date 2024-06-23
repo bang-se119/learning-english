@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "@ant-design/nextjs-registry": "^1.0.0",
+    "@types/lodash": "^4.17.5",
     "antd": "^5.18.3",
+    "lodash": "^4.17.21",
     "next": "14.2.4",
     "react": "^18",
     "react-dom": "^18"
